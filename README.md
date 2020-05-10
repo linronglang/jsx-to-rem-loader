@@ -12,7 +12,7 @@ npm install jsx-to-rem-loader -D
 ```js
 {
     test: /\.(js|tsx|jsx|ts)$/,
-    loader: require('jsx-to-rem-loader'),
+    loader: require.resolve('jsx-to-rem-loader'),
     options: {
     remUnit: 37.5,
     // 计算后取多少位的小数

@@ -1,6 +1,6 @@
 {
   "name": "jsx-to-rem-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "webpack loader。在jsx代码中的style 可以使用 RPX 单位，会自动转换rem",
   "main": "index.js",
   "author": "linronglang@gmail.com",
